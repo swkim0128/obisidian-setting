@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "D2Coding Nerd Font",
+  "textFontFamily": "D2Coding Nerd Font",
+  "monospaceFontFamily": "D2Coding Nerd Font",
+  "cssTheme": "AnuPpuccin",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}

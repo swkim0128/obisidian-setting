@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "da86f886e1890236",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06ff326f4fa1ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff925ed906ed37cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/법GitGraph/요구사항.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "요구사항"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a5b467abfc339a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7370c66666651b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4627e494c1a103a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2fddefeea94d40f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "d0fbc64aa70db049",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "93c432e2908167cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf1fe3fe38222560",
+        "type": "tabs",
+        "dimension": 32.028469750889684,
+        "children": [
+          {
+            "id": "14e09f897376d7cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      },
+      {
+        "id": "64e234ad55707742",
+        "type": "tabs",
+        "dimension": 28.469750889679716,
+        "children": [
+          {
+            "id": "46a9ab126e83b70d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8f563141f76bdd6",
+        "type": "tabs",
+        "dimension": 39.5017793594306,
+        "children": [
+          {
+            "id": "07b70f919c44900a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "컬렉션 라이브러리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "컬렉션 라이브러리 의 개요"
+            }
+          },
+          {
+            "id": "008b42fcb17313ea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "9801ba7a0c72acfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "165adce1c4e8d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Project/Kotlin/함수 정의와 호출.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "함수 정의와 호출의 나가는 링크"
+            }
+          },
+          {
+            "id": "64a1b8dcbfd112f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Project/Kotlin/함수 정의와 호출.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "함수 정의와 호출의 백링크"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "ff925ed906ed37cb",
+  "lastOpenFiles": [
+    "1. Project/법GitGraph/요구사항.md",
+    "1. Project/법GitGraph",
+    "1. Project/OutlineObsidianSync/OutlineToObsidian Project.md",
+    "1. Project/OutlineObsidianSync/Obsidian Plugin 구성.md",
+    "Readwise/오픈소스 프로젝트에 참여하기.md",
+    "_Sidebar.md",
+    "1. Project/Algorithm/그래프.md",
+    "Home.md",
+    "1. Project/README.md",
+    "Temp_Images/vim_cheat_sheet02.png",
+    "Temp_Images/vim_cheat_sheet01.png",
+    "Temp_Images/image.png",
+    "Temp_Images/chrome_x362AHZpXj.png",
+    "Temp_Images/chrome_61Akc3iJUi.png",
+    "Temp_Images/Untitled20(5).png",
+    "Temp_Images/Untitled20(4).png",
+    "Temp_Images/Untitled20(3).png",
+    "Temp_Images/Untitled20(3) 2.png",
+    "Temp_Images/Untitled20(2).png",
+    "Temp_Images",
+    "Readwise/🔌 옵시디언 플러그인 개발 이렇게 시작해보세요.md",
+    "Readwise/헥사고날 아키텍처 어댑터와 포트! 결합도를 낮춰보자.md",
+    "Readwise/지속 가능한 소프트웨어 설계 패턴 포트와 어댑터 아키텍처 적용하기.md",
+    "Readwise/제텔카스텐 하루 메모 6장으로 혁신적인 아이디어를 만드는 방법.md",
+    "Readwise/제텔카스텐 실전 편.md",
+    "Readwise/제로부터 시작하는 DDD를 위한 이벤트스토밍.md",
+    "Readwise/자바 - List - ArrayList 뽀개기 - 2.md",
+    "Readwise/부럽다영어로 Envy You 아니다.md",
+    "Readwise/마닐라 여행 가볼만한곳 총정리.md",
+    "Readwise/두 번째 뇌(Second Brain)란 무엇인가.md",
+    "Readwise/개발자들이 가장 많이 하는 고민은 🤔.md",
+    "Readwise/개발자답게 ChatGPT 사용하는 법 😎.md",
+    "Readwise/‘스푼라디오’ 어쩐지 귀에 착 감기더라니...이 사람들 덕분.md",
+    "Readwise/robots.txt 10분 안에 끝내는 총정리 가이드.md",
+    "Readwise/[프론트엔드] - Mixed Content 이슈를 해결하며.md",
+    "Readwise/[프로젝트 1] 내부 생성 객체에 대한 테스트.md",
+    "Readwise/[오류] 자동으로 도메인에 Https가 붙는 경우 본문.md",
+    "Readwise/[엑셀] 다른열에 해당값 존재여부 확인.md",
+    "Readwise",
+    "Notion/Resource/컴퓨팅 사고력",
+    "Notion/Resource/이산수학 - 8. 형식언어와 오토마타, 셈",
+    "Notion/Resource/이산수학 - 6. 그래프",
+    "Notion/Resource/이산수학 - 4. 부울 대수, 논리회로 설계",
+    "Notion/Resource/이산수학 - 1. 개요",
+    "Notion/Resource/문자열 패턴 매칭",
+    "Notion/Resource/vim cheat sheet",
+    "무제 파일.canvas"
+  ]
+}
