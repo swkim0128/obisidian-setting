@@ -214,6 +214,7 @@
   },
   "active": "ff925ed906ed37cb",
   "lastOpenFiles": [
+    "test.txt",
     "Readwise/[Mac] Dock에 빈 공간 추가하기 How to Add a Spacer to Dock.md",
     "Readwise/오픈소스 프로젝트에 참여하기.md",
     "Readwise/🔌 옵시디언 플러그인 개발 이렇게 시작해보세요.md",
@@ -239,7 +240,6 @@
     "Readwise/[SonarLint] 내 코드를 자동으로 리뷰해 주는 IDE플러그인.md",
     "Readwise/RabbitMQ DLXDLQ 메세지 손실 방지.md",
     "Readwise/Spring Boot에서 Amazon MQ의 RabbitMQ 연동.md",
-    "Readwise/[스프링부트 (5)] Spring Boot 로그 설정(1) - Logback.md",
     "Readwise",
     "1. Project/법GitGraph",
     "Temp_Images/vim_cheat_sheet02.png",
