@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e06ff326f4fa1ad4",
+        "id": "d0733e33afe70512",
         "type": "tabs",
         "children": [
           {
-            "id": "ff925ed906ed37cb",
+            "id": "c1a53dd01092d4a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/MacOS/맥북 세팅.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "맥북 세팅"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#articles",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,40 +211,45 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ff925ed906ed37cb",
+  "active": "008b42fcb17313ea",
   "lastOpenFiles": [
-    "test.txt",
-    "Readwise/[Mac] Dock에 빈 공간 추가하기 How to Add a Spacer to Dock.md",
-    "Readwise/오픈소스 프로젝트에 참여하기.md",
-    "Readwise/🔌 옵시디언 플러그인 개발 이렇게 시작해보세요.md",
-    "Readwise/헥사고날 아키텍처 어댑터와 포트! 결합도를 낮춰보자.md",
-    "Readwise/[Kotlin] Infix Function 이 뭐게.md",
-    "Readwise/지속 가능한 소프트웨어 설계 패턴 포트와 어댑터 아키텍처 적용하기.md",
-    "Readwise/제로부터 시작하는 DDD를 위한 이벤트스토밍.md",
-    "Readwise/Spring Validation.md",
-    "Readwise/자바 - List - ArrayList 뽀개기 - 2.md",
-    "Readwise/[Spring] @Transactional과 entityManager 관계 분석하기.md",
-    "Readwise/Springboot MyBatis 쿼리 로그 설정.md",
-    "Readwise/29. 변수 Scope.md",
-    "Readwise/RabbitMQ DLX를 사용하여 예외발생 시 무한 Retry를 제한하자..md",
-    "Readwise/[RabbitMQ] Prefetch와 성능.md",
-    "Readwise/RabbitMQ.md",
-    "Readwise/[Message Queue]RabbitMQ를 사용해 메세지 주고 받기.md",
-    "Readwise/[Linux] Libc와 Glibc의 차이.md",
-    "Readwise/Linux 프로그래밍 - Libc란.md",
-    "Readwise/마닐라 여행 가볼만한곳 총정리.md",
-    "Readwise/Systemd Service.md",
-    "Readwise/Systemctl 작성 방법.md",
-    "Readwise/[Linux] 서비스 관리 Systemctl, Log, Journalctl.md",
-    "Readwise/[SonarLint] 내 코드를 자동으로 리뷰해 주는 IDE플러그인.md",
-    "Readwise/RabbitMQ DLXDLQ 메세지 손실 방지.md",
-    "Readwise/Spring Boot에서 Amazon MQ의 RabbitMQ 연동.md",
-    "Readwise",
+    "1. Project/MacOS/맥북 Vim 세팅.md",
+    "1. Project/MacOS/맥북 세팅.md",
+    "1. Project/MacOS/맥북 iterm2.md",
+    "Readwise/Full Document Contents/DDD - 바운디드 컨텍스트란 무엇인가 !.md",
+    "Readwise/Full Document Contents/DDD - 표현 영역과 응용 서비스! (+ 값 검증, 권한 검사, ...).md",
+    "Readwise/Full Document Contents/DDD - 도메인 서비스란 무엇인가 ! (+ 다수의 애그리거트를 참조하는 방법).md",
+    "Readwise/Full Document Contents/DDD - 도메인과 유비쿼터스 언어.md",
+    "Readwise/Full Document Contents/DDD - JPA를 이용한 Repository, Entity 매핑 제대로 구현하기!.md",
+    "Readwise/Full Document Contents/DDD Quickly (도메인 주도 설계, 전술적-전략적 설계, Spring @Service의 유래, @Configurable를 통한 도메인 모델에 bean 주입) 본문.md",
+    "Readwise/Full Document Contents/DDD - 이벤트란 무엇인가 ! (+ 마이크로 서비스 간 트랜잭션 처리).md",
+    "Readwise/Full Document Contents/DDD - 애그리거트(Aggregate)를 잘 사용하는 방법들!-2.md",
+    "Readwise/Full Document Contents/DDD - 트랜잭션과 잠금을 관리하는 다양한 방법!.md",
+    "Readwise/Full Document Contents/ㄷㄷㄷ Domain Driven Design과 적용 사례 공유.md",
+    "Readwise/Full Document Contents/[Mac] 유용한 앱 및 개발 도구 모음, 설.. 네이버블로그.md",
+    "Readwise/Full Document Contents/[JS] export, export default의 차이점.md",
+    "Readwise/Full Document Contents/지속 가능한 소프트웨어 설계 패턴 포트와 어댑터 아키텍처 적용하기.md",
+    "Readwise/DDD 도메인 주도 설계 철저 입문 리뷰.md",
+    "Readwise/Full Document Contents/DDD 도메인 주도 설계 철저 입문 리뷰.md",
+    "Readwise/[Ddd] 01. 도메인 모델 시작하기.md",
+    "Readwise/Full Document Contents/[Ddd] 01. 도메인 모델 시작하기.md",
+    "Readwise/(4) Ddd의 서비스팩토리패키지 - 코드를 작성하는 세부 방법들 본문.md",
+    "Readwise/Full Document Contents/(4) Ddd의 서비스팩토리패키지 - 코드를 작성하는 세부 방법들 본문.md",
+    "Readwise/DDD - 응용 서비스 제대로 구현하기!.md",
+    "Readwise/Full Document Contents/DDD - 응용 서비스 제대로 구현하기!.md",
+    "Readwise/DDD - 애그리거트(Aggregate)를 잘 사용하는 방법들!.md",
+    "Readwise/Full Document Contents/DDD - 애그리거트(Aggregate)를 잘 사용하는 방법들!.md",
+    "Readwise/Full Document Contents",
+    "1. Project/MacOS",
+    "1. Project/Kubernetes",
+    "Readwise/Articles",
+    "Readwise/Full Document Contents/Articles",
+    "1. Project/Vim",
     "1. Project/법GitGraph",
     "Temp_Images/vim_cheat_sheet02.png",
     "Temp_Images/vim_cheat_sheet01.png",
@@ -253,13 +262,8 @@
     "Temp_Images/Untitled20(3) 2.png",
     "Temp_Images/Untitled20(2).png",
     "Temp_Images",
+    "Readwise",
     "Notion/Resource/컴퓨팅 사고력",
-    "Notion/Resource/이산수학 - 8. 형식언어와 오토마타, 셈",
-    "Notion/Resource/이산수학 - 6. 그래프",
-    "Notion/Resource/이산수학 - 4. 부울 대수, 논리회로 설계",
-    "Notion/Resource/이산수학 - 1. 개요",
-    "Notion/Resource/문자열 패턴 매칭",
-    "Notion/Resource/vim cheat sheet",
     "무제 파일.canvas"
   ]
 }
